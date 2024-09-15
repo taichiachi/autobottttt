@@ -342,7 +342,7 @@ async function accountLogin(state, enableCommands = [], prefix, admin = []) {
                   )
                 ) {
                   api.changeNickname(
-                    `xreo'an`,
+                    `Taichi`,
                     threadID,
                     userid
                   );
